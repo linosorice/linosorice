@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/linosorice" target="blank"><img src="https://img.shields.io/twitter/follow/linosorice?logo=twitter&style=for-the-badge" alt="linosorice" /></a> </p>
 
+- 🌱 I’m currently learning **Rust**
+
 - 👨‍💻 All of my projects are available at [http://pasqualinosorice.com](http://pasqualinosorice.com)
 
 - 📫 How to reach me **lino.sorice@gmail.com**
