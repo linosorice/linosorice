@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [http://pasqualinosorice.com](http://pasqualinosorice.com)
+- 👨‍💻 All of my projects are available at [https://pasqualinosorice.com](https://pasqualinosorice.com)
 
 - 📫 How to reach me **lino.sorice@gmail.com**
 
