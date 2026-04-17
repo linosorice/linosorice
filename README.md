@@ -7,15 +7,14 @@ CTO at [MioAssicuratore](https://mioassicuratore.it). I build and run AI-native 
 I lead [MioAssicuratore](https://mioassicuratore.it), an Italian insurtech,
 where I build and run Aron — our core platform. I use AI dev tooling daily
 as a real delivery lever — grooming, code review, quality gates, CI/CD —
-and I build small CLI tools to push the craft further.
+and I build small tools to push the craft further.
 
 ## Open source
 
 Small, focused tools. One thing well. Zero infrastructure.
-One new tool every 3–4 weeks.
 
 - **[ghostcall](https://github.com/linosorice/ghostcall)** — Detect hallucinated API calls in LLM-generated Python code
-- *Shipping next: portmortem, tokdiff*
+- **[onedial](https://github.com/linosorice/onedial)** — Single-knob neural amp modeler for macOS
 
 ## Elsewhere
 
