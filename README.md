@@ -5,10 +5,9 @@ CTO at [MioAssicuratore](https://mioassicuratore.it). I build and run AI-native 
 ## What I do
 
 I lead [MioAssicuratore](https://mioassicuratore.it), an Italian insurtech,
-where I build and run Aron — a TypeScript monorepo replacing our legacy
-Salesforce stack. I use AI dev tooling daily as a real delivery lever —
-grooming, code review, quality gates, CI/CD — and I build small CLI tools
-to push the craft further.
+where I build and run Aron — our core platform. I use AI dev tooling daily
+as a real delivery lever — grooming, code review, quality gates, CI/CD —
+and I build small CLI tools to push the craft further.
 
 ## Open source
 
