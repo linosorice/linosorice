@@ -14,7 +14,7 @@ and I build small tools to push the craft further.
 Small, focused tools. One thing well. Zero infrastructure.
 
 - **[ghostcall](https://github.com/linosorice/ghostcall)** — Detect hallucinated API calls in LLM-generated Python code
-- **[onedial](https://github.com/linosorice/onedial)** — Single-knob neural amp modeler for macOS
+- **[onedial](https://github.com/linosorice/onedial)** — Single-knob neural amp modeler
 
 ## Elsewhere
 
