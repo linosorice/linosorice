@@ -1,13 +1,14 @@
 # Pasqualino Sorice
 
-CTO @mioassicuratore. I build and run AI-native platforms.
+CTO at [MioAssicuratore](https://mioassicuratore.it). I build and run AI-native platforms.
 
 ## What I do
 
-I lead Aron, a TypeScript monorepo replacing a legacy Salesforce stack
-at an Italian insurtech. I use AI dev tooling daily as a real delivery
-lever — grooming, code review, quality gates, CI/CD — and I build small
-CLI tools to push the craft further.
+I lead [MioAssicuratore](https://mioassicuratore.it), an Italian insurtech,
+where I build and run Aron — a TypeScript monorepo replacing our legacy
+Salesforce stack. I use AI dev tooling daily as a real delivery lever —
+grooming, code review, quality gates, CI/CD — and I build small CLI tools
+to push the craft further.
 
 ## Open source
 
